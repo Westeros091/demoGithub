@@ -1,10 +1,4 @@
 hello it me
-<<<<<<< HEAD
 hi
 holla
-
-=======
-saw
->>>>>>> 37ebcae08482ca1adff8b97afea057aa600d5b14
-
 lala
